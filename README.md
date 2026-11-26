@@ -16,7 +16,7 @@
     5. *Armored Explorer (Sci-Fi)*
 - **Foldable Apollo LRV Crate & EVA Deployment:**
   - Pack the entire **Foldable Frame (Apollo LRV)** rover and all attached wheels/instruments into a compact **25L / 35 kg** cargo crate in VAB/SPH.
-  - Store it inside a Kerbal's personal inventory or cargo bay, then deploy and unfold it on the Mun/planet surface with an **Engineer Kerbal**.
+  - Store it inside a Kerbal's personal inventory or cargo bay, then deploy and unfold it on the surface with an **Engineer Kerbal**.
 - **6-Wheel Rocker-Bogie Kinematics:**
   - Real-time visual `Rocker_L/R`, `Bogie_L/R`, and `DifferentialBar` linkages plus physical bogie load equalization.
 - **Mobility (`Ground`):**
