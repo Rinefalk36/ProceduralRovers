@@ -52,6 +52,9 @@
 
 ---
 
+## Acknowledgments
+- Developed with AI assistance from **Google Gemini**.
+
 ## License
 
 Licensed under the [MIT License](LICENSE).
