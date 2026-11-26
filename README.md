@@ -57,4 +57,4 @@
 
 ## License
 
-Licensed under the [GLP3 License](LICENSE).
+Licensed under the [GPL3 License](LICENSE).
