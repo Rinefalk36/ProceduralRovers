@@ -1,0 +1,9 @@
+C:\Users\Monster\.gemini\antigravity\scratch\ProceduralRovers\GameData\ProceduralRovers\Plugins\Source\obj\Release\ProceduralRovers.csproj.AssemblyReference.cache
+C:\Users\Monster\.gemini\antigravity\scratch\ProceduralRovers\GameData\ProceduralRovers\Plugins\Source\obj\Release\ProceduralRovers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\.gemini\antigravity\scratch\ProceduralRovers\GameData\ProceduralRovers\Plugins\Source\obj\Release\ProceduralRovers.AssemblyInfoInputs.cache
+C:\Users\Monster\.gemini\antigravity\scratch\ProceduralRovers\GameData\ProceduralRovers\Plugins\Source\obj\Release\ProceduralRovers.AssemblyInfo.cs
+C:\Users\Monster\.gemini\antigravity\scratch\ProceduralRovers\GameData\ProceduralRovers\Plugins\Source\obj\Release\ProceduralRovers.csproj.CoreCompileInputs.cache
+C:\Users\Monster\.gemini\antigravity\scratch\ProceduralRovers\GameData\ProceduralRovers\Plugins\Source\obj\Release\ProceduralRovers.dll
+C:\Users\Monster\.gemini\antigravity\scratch\ProceduralRovers\GameData\ProceduralRovers\Plugins\Source\obj\Release\ProceduralRovers.pdb
+C:\Users\Monster\.gemini\antigravity\scratch\ProceduralRovers\GameData\ProceduralRovers\Plugins\ProceduralRovers.dll
+C:\Users\Monster\.gemini\antigravity\scratch\ProceduralRovers\GameData\ProceduralRovers\Plugins\ProceduralRovers.pdb
